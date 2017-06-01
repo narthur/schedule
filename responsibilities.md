@@ -7,7 +7,6 @@ comments: true
 
 Area                      | Ideal Time Allocation | Target Time Allocation 
 --------------------------|-----------------------|-----------------------
-Michelle                  | Sabbaths + 5 hrs wkly | Sabbaths + 5 hrs wkly
 HabitFree ministry        | 4 hours weekly        | 2 hours weekly
 SimpleUpdates             | 40 hours weekly       | 40 hours weekly
 Damsteegt chores          | 10 hours weekly       | 8 hours weekly
