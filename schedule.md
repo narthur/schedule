@@ -7,8 +7,9 @@ comments: true
 
 Time  | Sun           | Mon           | Tue           | Wed           | Thur          | Fri  
 ------|---------------|---------------|---------------|---------------|---------------|------
-06:30 | Devotions     | Devotions     | Devotions     | Devotions     | Devotions     | Devotions
-07:00 | Day Prep      | Day Prep      | Day Prep      | Day Prep      | Day Prep      | Day Prep
+06:00 | Devotions     | Devotions     | Devotions     | Devotions     | Devotions     | Devotions
+06:30 | Day Prep      | Day Prep      | Day Prep      | Day Prep      | Day Prep      | Day Prep
+07:00 | "             | "             | "             | "             | "             | "
 07:30 | Breakfast     | Breakfast     | Breakfast     | Breakfast     | Breakfast     | Breakfast
 08:00 | Strtgc Thnkng | Dmstgt Chores | Dmstgt Chores | Dmstgt Chores | Dmstgt Chores | Dmstgt Chores
 08:30 | "             | "             | "             | "             | "             | "
@@ -20,7 +21,7 @@ Time  | Sun           | Mon           | Tue           | Wed           | Thur    
 11:30 | "             | "             | "             | "             | "             | "
 12:00 | "             | "             | "             | "             | "             | "
 12:30 | "             | "             | "             | "             | "             | "
-01:00 | Lunch         | Lunch         | Lunch         | Lunch         | Lunch         | Lunch
+01:00 | Lunch / Walk  | Lunch / Walk  | Lunch / Walk  | Lunch / Walk  | Lunch / Walk  | Lunch / Walk
 01:30 | "             | "             | "             | "             | "             | "
 02:00 | Dmstgt Chores | SimpleUpdates | SimpleUpdates | SimpleUpdates | SimpleUpdates | Commute
 02:30 | "             | "             | "             | "             | "             | Dmstgt Chores
@@ -33,5 +34,6 @@ Time  | Sun           | Mon           | Tue           | Wed           | Thur    
 06:00 | "             | "             | "             | "             | "             |
 06:30 | "             | "             | "             | "             | "             |
 07:00 | "             | Commute       | Commute       | Commute       | Commute       |
-07:30 | Call Michelle | Call Michelle | Call Michelle | Call Michelle | Call Michelle |
-08:00 | Sleep         | Sleep         | Sleep         | Sleep         | Sleep         | Sleep
+07:30 | Call Michelle | Call Michelle | Call Michelle | Call Michelle | Call Michelle | Call Michelle
+08:00 | Wind down     | Wind down     | Wind down     | Wind down     | Wind down     | Wind down
+08:30 | Sleep         | Sleep         | Sleep         | Sleep         | Sleep         | Sleep
