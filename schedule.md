@@ -14,7 +14,7 @@ Time  | Sun           | Mon           | Tue           | Wed           | Thur    
 08:00 | Strtgc Thnkng | Commute       | Commute       | Commute       | Commute       | Commute
 08:30 | "             | SimpleUpdates | SimpleUpdates | SimpleUpdates | SimpleUpdates | SimpleUpdates
 09:00 | "             | "             | "             | "             | "             | "
-09:30 | Laundry       | "             | "             | "             | "             | "
+09:30 | Email         | "             | "             | "             | "             | "
 10:00 | Commute       | "             | "             | "             | "             | "
 10:30 | SimpleUpdates | "             | "             | "             | "             | "
 11:00 | "             | "             | "             | "             | "             | "
@@ -29,7 +29,7 @@ Time  | Sun           | Mon           | Tue           | Wed           | Thur    
 03:30 | "             | "             | "             | "             | "             | "
 04:00 | "             | "             | "             | "             | "             | "
 04:30 | "             | "             | "             | "             | "             | "
-05:00 | Email         | "             | "             | "             | "             | Sabbath prep
+05:00 | Laundry       | "             | "             | "             | "             | Sabbath prep
 05:30 | Call family   | "             | "             | "             | "             | "
 06:00 | "             | Commute       | Commute       | Commute       | Commute       |
 06:30 | "             | Dmstgt Chores | Dmstgt Chores | Dmstgt Chores | Dmstgt Chores |
